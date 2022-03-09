@@ -1,0 +1,16 @@
+.League {
+    margin-left: 10px;
+    border: solid 1px black; 
+    text-align: center;
+}
+
+#Leaguelogo {
+    width: 180px;
+    border: solid 1px black;
+    padding: 20px;
+}
+
+#Leaguetext {
+    font-size: 20px;
+}
+
