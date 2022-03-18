@@ -1,17 +1,30 @@
 .League {
     margin-left: 10px;
-    border: solid 1px black; 
+    border: solid 2.5px black; 
     text-align: center;
     padding:20px;
 }
 
 #Leaguelogo {
     width: 180px;
-    border: solid 1px black;
+    border: solid 2.5px black;
     padding: 20px;
 }
 
 #Leaguetext {
     font-size: 20px;
 }
+
+div {
+    border-radius: 15px;
+}
+
+#footer {
+    padding: 20px;
+}
+
+#footerlink {
+    text-align: center;
+}
+
 
